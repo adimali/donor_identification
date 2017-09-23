@@ -1,6 +1,4 @@
-# Two Sigma Financial modeling project
-
-This is the repo for doner identification project.
+# This is the repo for doner identification project.
 
 
 ## Creators
